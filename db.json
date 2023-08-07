@@ -1,6 +1,12 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
+    {
+      "id":"1",
+      "fullname": "Ranjan, Vikas" ,
+      "email":"Vikas.Ranjan@T-Mobile.com",
+      "role": "Sr Manager, Software Development",
+      "bio":"Passionate about crafting elegant and efficient software solutions",
+    },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
