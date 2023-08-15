@@ -153,7 +153,7 @@
       "productname": "platform 03" ,
       "description":"This is a good product",
       "role": "Assoc Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",
+      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a s
       "image":"../../src/assets/teamavartars/boy.png"
     },
      {
@@ -161,15 +161,14 @@
       "productname": "platform 04" ,
       "description":"This is a good product",
       "role": "Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",      
-      "image:":"../../src/assets/teamavartars/boy.png"
+      "bio":"Passionate about crafting elegant and efficient software solutions, 
     },
      {
       "id":5,
       "productname": "platform 05" ,
       "description":"This is a good product",
       "role": "Principal Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",      
+      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in c
       "image":"../../src/assets/teamavartars/boy.png"
     },   
      {
@@ -177,25 +176,10 @@
       "productname": "platform 06" ,
       "description":"This is a good product",
       "role": "Principal Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",      
+      "bio":"Passionate about crafting elegant and efficient software solutions,
       "image":"../../src/assets/teamavartars/boy.png"
     },   
-    {
-      "id":7,
-      "productname": "platform 07" ,
-      "description":"This is a good product",
-      "role": "Sr Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",      
-      "image":"../../src/assets/teamavartars/boy.png"
-    },   
-    {
-      "id":8,
-      "productname": "platform 08" ,
-      "description":"This is a good product",
-      "role": "Sr Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",      
-      "image":"../../src/assets/teamavartars/boy.png"
-    }
+   
   ]
 }
 
