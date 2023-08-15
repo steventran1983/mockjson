@@ -48,6 +48,49 @@
       "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack fe on turning innovative ideas into functional, user-friendly applications.",      
       "image":"../../src/assets/teamavartars/boy.png"
     } 
+  ],
+  "products":[
+    {
+      "id":1,
+      "productname": "Ranjan, Vikas" ,
+      "description":"This is a good product",
+      "role": "Sr Manager, Software Development",
+      "bio":"Passionate about crafting elegant and efficient software solutions",
+      "image": "../../src/assets/teamavartars/boy.png"
+    },
+    {
+      "id":2,
+      "productname": "Li, Tom" ,
+      "description":"This is a good product",
+      "role": "Principal Engineer, Software",
+      "bio":"Passionate about crafting elegant and efficient software solutions",
+      "image":"../../src/assets/teamavartars/boy.png"
+    },
+     {
+      "id":3,
+      "productname": "Chandra, Sonali" ,
+      "description":"This is a good product",
+      "role": "Assoc Engineer, Software",
+      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack foperience, I thrive on turning innovative ideas into functional, user-friendly applications.",
+      "image":"../../src/assets/teamavartars/boy.png"
+    },
+     {
+      "id":4,
+      "productname": "Husting, Darren" ,
+      "description":"This is a good product",
+      "role": "Engineer, Software",
+      "bio":"Passionate about crafting elegant and efficient software solutions,eas into functional, user-friendly applications.",      
+      "image:":"../../src/assets/teamavartars/boy.png"
+    },
+     {
+      "id":5,
+      "productname": "Wu, Raymond" ,
+      "description":"This is a good product",
+      "role": "Principal Engineer, Software",
+      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for t",      
+      "image":"../../src/assets/teamavartars/boy.png"
+    }
+    
   ]
 }
 
