@@ -21,7 +21,7 @@
       "fullname": "Chandra, Sonali" ,
       "email":"sonali.chandra44@t-mobile.com",
       "role": "Assoc Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",
+      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",
       "image":"../../src/assets/teamavartars/boy.png"
     },
      {
@@ -29,7 +29,7 @@
       "fullname": "Husting, Darren" ,
       "email":"darren.husting1@t-mobile.com",
       "role": "Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",      
+      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer science and years of heas into functional, user-friendly applications.",      
       "image:":"../../src/assets/teamavartars/boy.png"
     },
      {
@@ -37,7 +37,7 @@
       "fullname": "Wu, Raymond" ,
       "email":"raymond.wu@t-mobile.com",
       "role": "Principal Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",      
+      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tae, I thrive on turning innovative ideas into functional, user-friendly applications.",      
       "image":"../../src/assets/teamavartars/boy.png"
     },   
      {
@@ -45,25 +45,9 @@
       "fullname": "Bethamsetty, Sridhar" ,
       "email":"sridhar.bethamsetty@t-mobile.com",
       "role": "Principal Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",      
+      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack fe on turning innovative ideas into functional, user-friendly applications.",      
       "image":"../../src/assets/teamavartars/boy.png"
     },   
-    {
-      "id":7,
-      "fullname": "Selvaraj, Shalini" ,
-      "email":"shalini.selvaraj6@t-mobile.com",
-      "role": "Sr Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",      
-      "image":"../../src/assets/teamavartars/boy.png"
-    },   
-    {
-      "id":8,
-      "fullname": "Bahuleyan, Manjith" ,
-      "email":"manjith.bahuleyan1@t-mobile.com",
-      "role": "Sr Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",      
-      "image":"../../src/assets/teamavartars/boy.png"
-    }
   ],
   "products":[
     {
@@ -87,7 +71,7 @@
       "productname": "Chandra, Sonali" ,
       "description":"This is a good product",
       "role": "Assoc Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",
+      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack foperience, I thrive on turning innovative ideas into functional, user-friendly applications.",
       "image":"../../src/assets/teamavartars/boy.png"
     },
      {
@@ -95,7 +79,7 @@
       "productname": "Husting, Darren" ,
       "description":"This is a good product",
       "role": "Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",      
+      "bio":"Passionate about crafting elegant and efficient software solutions,eas into functional, user-friendly applications.",      
       "image:":"../../src/assets/teamavartars/boy.png"
     },
      {
@@ -103,33 +87,10 @@
       "productname": "Wu, Raymond" ,
       "description":"This is a good product",
       "role": "Principal Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",      
+      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for t",      
       "image":"../../src/assets/teamavartars/boy.png"
     },   
-     {
-      "id":6,
-      "productname": "Bethamsetty, Sridhar" ,
-      "description":"This is a good product",
-      "role": "Principal Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",      
-      "image":"../../src/assets/teamavartars/boy.png"
-    },   
-    {
-      "id":7,
-      "productname": "Selvaraj, Shalini" ,
-      "description":"This is a good product",
-      "role": "Sr Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",      
-      "image":"../../src/assets/teamavartars/boy.png"
-    },   
-    {
-      "id":8,
-      "productname": "Bahuleyan, Manjith" ,
-      "description":"This is a good product",
-      "role": "Sr Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in computer science and years of hands-on experience, I thrive on turning innovative ideas into functional, user-friendly applications.",      
-      "image":"../../src/assets/teamavartars/boy.png"
-    }
+    
   ],
    "platforms":[
     {
@@ -153,7 +114,7 @@
       "productname": "platform 03" ,
       "description":"This is a good product",
       "role": "Assoc Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a s
+      "bio":"Passionate about crafting elegant and efficient software solutions, I"
       "image":"../../src/assets/teamavartars/boy.png"
     },
      {
@@ -161,14 +122,14 @@
       "productname": "platform 04" ,
       "description":"This is a good product",
       "role": "Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, 
+      "bio":"Passionate about crafting elegant and efficient software solutions, "
     },
      {
       "id":5,
       "productname": "platform 05" ,
       "description":"This is a good product",
       "role": "Principal Engineer, Software",
-      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for tackling complex challenges. With a solid foundation in c
+      "bio":"Passionate about crafting elegant and efficient software solutions,"
       "image":"../../src/assets/teamavartars/boy.png"
     },   
      {
