@@ -91,6 +91,49 @@
       "image":"../../src/assets/teamavartars/boy.png"
     }
     
+  ],
+  "platforms":[
+    {
+      "id":1,
+      "platformname": "Ranjan, Vikas" ,
+      "description":"This is a good platform",
+      "role": "Sr Manager, Software Development",
+      "bio":"Passionate about crafting elegant and efficient software solutions",
+      "image": "../../src/assets/teamavartars/boy.png"
+    },
+    {
+      "id":2,
+      "platformname": "Li, Tom" ,
+      "description":"This is a good platform",
+      "role": "Principal Engineer, Software",
+      "bio":"Passionate about crafting elegant and efficient software solutions",
+      "image":"../../src/assets/teamavartars/boy.png"
+    },
+     {
+      "id":3,
+      "platformname": "Chandra, Sonali" ,
+      "description":"This is a good platform",
+      "role": "Assoc Engineer, Software",
+      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack foperience, I thrive on turning innovative ideas into functional, user-friendly applications.",
+      "image":"../../src/assets/teamavartars/boy.png"
+    },
+     {
+      "id":4,
+      "platformname": "Husting, Darren" ,
+      "description":"This is a good platform",
+      "role": "Engineer, Software",
+      "bio":"Passionate about crafting elegant and efficient software solutions,eas into functional, user-friendly applications.",      
+      "image:":"../../src/assets/teamavartars/boy.png"
+    },
+     {
+      "id":5,
+      "platformname": "Wu, Raymond" ,
+      "description":"This is a good platform",
+      "role": "Principal Engineer, Software",
+      "bio":"Passionate about crafting elegant and efficient software solutions, I am a dedicated software engineer with a knack for t",      
+      "image":"../../src/assets/teamavartars/boy.png"
+    }
+    
   ]
 }
 
